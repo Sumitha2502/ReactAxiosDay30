@@ -1,8 +1,4 @@
-# React + Vite
+Created a user data using React and Axios fetch to interact with a mock API and displaying all the existing API data in UI using Axios.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Deployed URL:
+https://ubiquitous-blancmange-dba0d9.netlify.app/dashboard
